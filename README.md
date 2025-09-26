@@ -3,5 +3,3 @@ I created this website because I wanted to make a better killboard website for e
 Requirements:
 eve online static data export for mysql
 eve online images; icons, renders, types
-
-Written by Andrew
